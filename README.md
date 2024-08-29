@@ -1,5 +1,4 @@
 # Car-Rental
-# Car Rental Database System
 
 ## Features
 
