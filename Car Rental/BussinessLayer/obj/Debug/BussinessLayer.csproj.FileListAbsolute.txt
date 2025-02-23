@@ -1,9 +1,0 @@
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\bin\Debug\BussinessLayer.dll
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\bin\Debug\BussinessLayer.pdb
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\bin\Debug\DataAccessLayer.dll
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\bin\Debug\DataAccessLayer.pdb
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\obj\Debug\BussinessLayer.dll
-D:\Programming\LargeProjects\Car Rental\BussinessLayer\obj\Debug\BussinessLayer.pdb

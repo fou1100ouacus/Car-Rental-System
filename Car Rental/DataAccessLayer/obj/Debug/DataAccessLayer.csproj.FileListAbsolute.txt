@@ -1,6 +1,0 @@
-D:\Programming\LargeProjects\Car Rental\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-D:\Programming\LargeProjects\Car Rental\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-D:\Programming\LargeProjects\Car Rental\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
-D:\Programming\LargeProjects\Car Rental\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-D:\Programming\LargeProjects\Car Rental\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-D:\Programming\LargeProjects\Car Rental\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
